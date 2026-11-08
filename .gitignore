@@ -1,0 +1,3 @@
+# Claude Code's "don't ask again" approvals. They hold commands word for word,
+# so can hold secrets: keep them on the machine that made them.
+**/.claude/settings.local.json
